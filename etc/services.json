@@ -1,0 +1,8 @@
+{
+    "face_detection": {
+        "1": "/services/face_detection/1"
+    },
+    "dummy": {
+        "1": "/services/dummy/1"
+    }
+}
